@@ -1,7 +1,6 @@
 {
   "name": "finn.no",
   "version": "0.0.0",
-  "description": "",
   "main": "lib/finn.js",
   "author": "Christian Tellnes <christian@tellnes.com> (http://christian.tellnes.com/)",
   "license": "MIT",
@@ -13,5 +12,17 @@
     "lru-cache": "^2.5.0",
     "request": "^2.53.0",
     "xml2json": "~0.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tellnes/finn.no.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tellnes/finn.no/issues"
+  },
+  "homepage": "https://github.com/tellnes/finn.no",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   }
 }
