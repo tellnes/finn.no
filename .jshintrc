@@ -1,0 +1,10 @@
+{ "esnext": true
+, "asi": true
+, "node": true
+, "laxcomma": true
+, "sub": true
+, "quotmark": "single"
+, "maxlen": 80
+, "unused": "strict"
+, "undef": true
+}

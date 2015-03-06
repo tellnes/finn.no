@@ -1,0 +1,17 @@
+{
+  "name": "finn.no",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/finn.js",
+  "author": "Christian Tellnes <christian@tellnes.com> (http://christian.tellnes.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.1.2",
+    "binary-search-bounds": "^1.0.0",
+    "he": "~0.5.0",
+    "inherits": "^2.0.1",
+    "lru-cache": "^2.5.0",
+    "request": "^2.53.0",
+    "xml2json": "~0.6.1"
+  }
+}
