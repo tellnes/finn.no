@@ -1,6 +1,6 @@
 {
   "name": "finn.no",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "lib/finn.js",
   "author": "Christian Tellnes <christian@tellnes.com> (http://christian.tellnes.com/)",
   "license": "MIT",
